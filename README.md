@@ -1,2 +1,3 @@
-# curso-practico-javascript-platzi
-Curso práctico de JavaScript en Platzi
+# Curso Práctico de JavaScript de Platzi
+
+Disfrutando de este curso en Platzi con JuanDC.
